@@ -1,0 +1,2 @@
+6 http://123.123.123.123:80/dir1/dir2/test.txt
+6 sftp://2001:0db8:85a3:::8a2e:0370:7334/dir1/dir2/test.txt
