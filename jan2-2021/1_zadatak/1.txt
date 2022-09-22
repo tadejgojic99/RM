@@ -1,0 +1,4 @@
+[7.5.2022 17:41:00] [123.123.123.123] [http://test.com/path/secret.txt]
+[7.5.2022 17:51:00] [2607_f0d0_1002:51::4] [https://test.com/path/secret.txt]
+[7.5.2022 17:52:00] [123.23.2.33] [ftp://test.com/path/secret.txt]
+[7.5.2022 17:53:00] [123.23.2.33] [FILE://test.com/path/secret.txt]

@@ -1,0 +1,4 @@
+https://github.com/MATF-Computer-Networks/RM-exams/blob/master/4I/2020-2021-4I/RM4I_2021_JUN1.pdf
+http://123.123.123.123:80/dir1/dir2/text.txt
+GILE://123.123.123.123:80/dir1/dir2/text.txt
+sftp://2001:0db8:85a3:::8a2e:0370:7334/dir1/dir2/test.txt
